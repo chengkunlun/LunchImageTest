@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LunchImageTest/AppDelegate.m"
+            timestampString = "536138103.467364"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "-customLaunchImageView"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate customLaunchImageView]"
+                  moduleName = "LunchImageTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ckl/Desktop/ios%20%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90/%3C3%3E%E5%90%AF%E5%8A%A8%E9%A1%B5%E5%8A%A8%E7%94%BB/LunchImageTest/LunchImageTest/AppDelegate.m"
+                  timestampString = "536133976.572821"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "3977">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__36-[AppDelegate customLaunchImageView]_block_invoke"
+                  moduleName = "LunchImageTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ckl/Desktop/ios%20%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90/%3C3%3E%E5%90%AF%E5%8A%A8%E9%A1%B5%E5%8A%A8%E7%94%BB/LunchImageTest/LunchImageTest/AppDelegate.m"
+                  timestampString = "536133976.580324"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "18">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LunchImageTest/AppDelegate.m"
+            timestampString = "536138103.467436"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "-customLaunchImageView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LunchImageTest/AppDelegate.m"
+            timestampString = "536138103.467488"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "-customLaunchImageView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
